@@ -7,7 +7,7 @@ Segundo Parcial SyP
 Pasos Utilizados 
 
 
-Primer paso clonamos el repositorio del githut con git clone https://github.com/Gabriel503sv/2doparcial.git - automatic! <br>
+Primer paso clonamos el repositorio del githut con git clone https://github.com/Gabriel503sv/2doparcial.git <br>
 Segundo paso ceamos todos los archivos con touch
 
 string Descripcion = {};<br>
