@@ -27,5 +27,6 @@ for(int i ; i<3 ; i++ ){<br>
 - }<br>
 - if(cambiarrama[i]=="si"){<br>
   - octavo paso cambiamos de rama con git checkout Nombrerama[i]<br>
- }<br>
+- }<br>
+
 } 
