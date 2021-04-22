@@ -23,8 +23,8 @@ for(int i ; i<3 ; i++ ){
 - quinto paso los pones en el area de trabajo con git commit "Descripcion[i]"<br>
 - Sexto paso los subimos a github con git push -u origin Nombrerama[i]<br>
 - if(crearrama[i]=="si"){<br>
-  septimo paso creamos la rama con git branch[i]<br>
-  - }<br>
+  - septimo paso creamos la rama con git branch[i]<br>
+- }<br>
 - if(cambiarrama[i]=="si"){<br>
   - octavo paso cambiamos de rama con git checkout Nombrerama[i]<br>
 - }<br>
