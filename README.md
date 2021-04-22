@@ -1,17 +1,14 @@
-# practica
-
+# practica <br>
 Documentacion Espero le guste :)
-
-
 
 Estudiante: Gabriel Antonio Castillo Alegria CA19040 <br>
 Segundo Parcial SyP 
 
-Pasos Utilisados 
+Pasos Utilizados 
 
 
-Primer paso clonanamos el repositorio del githut con git clone <br>
-Segundo paso cleamos todos los archivos con touch
+Primer paso clonamos el repositorio del githut con git clone <br>
+Segundo paso ceamos todos los archivos con touch
 
 string Descripcion = {};<br>
 string nombrerama  = {};<br>
@@ -29,6 +26,6 @@ for(int i ; i<3 ; i++ ){<br>
        -------- septimo paso creamos la rama con git branch[i]<br>
     ---- }<br>
     ---- if(cambiarrama[i]=="si"){<br>
-       -------- octavo paso cambiamos de rama con git checkout[i]<br>
+       -------- octavo paso cambiamos de rama con git checkout Nombrerama[i]<br>
     ---- }<br>
 } 
