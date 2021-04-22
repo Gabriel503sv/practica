@@ -18,7 +18,7 @@ string cambiarrama = {};
 
 
 for(int i ; i<3 ; i++ ){<br>
-    Tercer paso sobre escribimos los archivos para poder tomar en cuenta en area de preparacion<br>
+    <p>Tercer paso sobre escribimos los archivos para poder tomar en cuenta en area de preparacion<br>
     Cuarto Paso los poner en fila de preparacion con git add .<br>
     quinto paso los pones en el area de trabajo con git commit "Descripcion[i]"<br>
     Sexto paso los subimos a github con git push -u origin Nombrerama[i]<br>
